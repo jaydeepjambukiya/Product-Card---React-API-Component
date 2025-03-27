@@ -1,3 +1,7 @@
+
+![Uploading screencapture-localhost-5173-2025-03-27-14_47_22.png…]()
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
